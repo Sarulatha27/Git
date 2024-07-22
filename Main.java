@@ -9,6 +9,9 @@ public class Main {
         System.out.println("Addition = " + (a + b));
 
         //Subtraction
-        System.out.println("Subtraction = "+(a-b));
+        System.out.println("Subtraction = " + (a * b));
+
+        //Multiplication
+        System.out.println("Multiplication = " + (a * b));
     }
 }
