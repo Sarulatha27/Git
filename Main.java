@@ -16,5 +16,8 @@ public class Main {
 
         //Divison
         System.out.println("Division = " + (a / b));
+
+        //Modulation
+        System.out.println("Modulation = " + (a % b));
     }
 }
