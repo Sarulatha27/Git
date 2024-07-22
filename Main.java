@@ -3,5 +3,9 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello There!");
+
+        int a = 10, b = 20;
+        // Addition
+        System.out.println("Addition = " + (a + b));
     }
 }
