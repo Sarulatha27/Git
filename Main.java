@@ -13,5 +13,8 @@ public class Main {
 
         //Multiplication
         System.out.println("Multiplication = " + (a * b));
+
+        //Divison
+        System.out.println("Division = " + (a / b));
     }
 }
