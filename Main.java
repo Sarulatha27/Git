@@ -7,5 +7,8 @@ public class Main {
         int a = 10, b = 20;
         // Addition
         System.out.println("Addition = " + (a + b));
+
+        //Subtraction
+        System.out.println("Subtraction = "+(a-b));
     }
 }
