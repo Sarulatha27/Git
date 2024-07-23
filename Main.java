@@ -20,11 +20,10 @@ public class Main {
         //Modulation
         System.out.println("Modulation = " + (a % b));
 
-        if(a<b){
+        if (a < b) {
             System.out.println("A is Smaller than B");
-        }
-        else{
-            System.out.println("A is Greater than B");
+        } else {
+            System.out.println("A is Greater than B A>B");
         }
     }
 }
