@@ -1,1 +1,1 @@
-// First java Program
+// First java program
