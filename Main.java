@@ -23,7 +23,7 @@ public class Main {
         if (a < b) {
             System.out.println("A is Smaller than B");
         } else {
-            System.out.println("A is Greater than B A>B");
+            System.out.println("A is Greater than B AB");
         }
     }
 }
